@@ -1,4 +1,4 @@
-![logo](https://github.com/Rohini205/Rohini205/blob/main/GithubBanner.png)
+![logo](https://github.com/Rohini205/Rohini205/issues/1)
 <h1 align="center">Hi 👋, I'm Rohini Tibile</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
 
